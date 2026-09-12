@@ -49,4 +49,4 @@ The dashboard includes:
 
 ## 🖼️ Dashboard Preview
 
-![Superstore Dashboard](superstore-screenshot.png)
+![superstore ](superstore-screenshot.png)

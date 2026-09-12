@@ -1,4 +1,3 @@
-# Superstore-Sales-Analysis
 # Superstore Sales Analysis — SQL & Power BI
 
 ## 📊 Project Overview
